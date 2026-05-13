@@ -1,0 +1,21 @@
+Software Engineering Process Flow (5 Steps)
+
+1. Requirements Gathering & Analysis
+   - Collect and document project requirements
+   - Analyze feasibility and define scope
+
+2. Design & Planning
+   - Create system architecture and design specifications
+   - Plan development timeline and allocate resources
+
+3. Implementation (Development)
+   - Write code following design specifications
+   - Perform unit testing and code reviews
+
+4. Testing & Quality Assurance
+   - Conduct integration, system, and regression testing
+   - Identify and fix defects
+
+5. Deployment & Maintenance
+   - Deploy to production environment
+   - Monitor, maintain, and iterate based on feedback
