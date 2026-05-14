@@ -28,6 +28,6 @@ jobs:
       - name: Run opencode
         uses: anomalyco/opencode/github@latest
         env:
-          OPENCODE_API_KEY: ${{ sk-GVezAX11kpkMx6iffzGYsX57E4V10McTTIUVw4mkN9h2Ymg5Rpgy1KyczXYBzfMs }}
+          OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
         with:
           model: opencode/big-pickle
